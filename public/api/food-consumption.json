@@ -1,0 +1,3375 @@
+{
+  "data": {
+    "foodConsumption": {
+      "daily": [
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 5541.000000000004
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 1065
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 16975.699999999935
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1006.4999999999999
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 16077.6
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 25571.89999999992
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 5335.400000000004
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 9109.099999999984
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 10375.999999999982
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 7345.799999999999
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 26653.49999999992
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 3307.1
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 2144.2000000000007
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 2082.5
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 9141.000000000007
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 12367.2
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2473
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 6820.9999999999945
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3019.800000000001
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 6940.300000000003
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 12261.800000000003
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 1687.1
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 6844.099999999986
+        },
+        {
+          "day": 3,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 875.5999999999992
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2590.800000000005
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 25958.69999999991
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 29906.599999999897
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2304.300000000003
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 10451.49999999999
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 3235.200000000003
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 5629.800000000002
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 7207.7999999999865
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 8840.699999999993
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 10592.299999999994
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 2672.900000000002
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 1338.3000000000002
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 6518.099999999999
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 2843.5000000000023
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 10340.900000000021
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 10746.700000000028
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 2502.4999999999995
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1716.3000000000015
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3070.9999999999977
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 14231.599999999977
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 6414.499999999992
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 5145.399999999999
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 921.4999999999991
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1732.3000000000002
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4697.900000000006
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 14137.700000000023
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 1197.8999999999996
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4602.000000000002
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3922.7000000000007
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3849.9000000000033
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2669.800000000001
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 3640.2000000000007
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 1224.7
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1826.8999999999999
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1713.7999999999995
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 281.00000000000006
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4272.200000000002
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3248.1000000000004
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 8136.700000000009
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3351.800000000001
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 3184.9
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4785.000000000003
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 4948.699999999997
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 11825.99999999997
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 5962.999999999988
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 2927.5999999999985
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 8644.19999999999
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 10118.3
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3372.1000000000026
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 5646.799999999995
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 5016.4
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 7990.999999999998
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 6124.1
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 691.8000000000002
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4677.800000000003
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 8527.099999999984
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1679.3999999999999
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 1057.0000000000002
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 5447.699999999996
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 7223.200000000007
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 949.9999999999999
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 2316.7
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 948.3000000000002
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 8630.600000000002
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 2719.2000000000007
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 1683.599999999998
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3321.3000000000015
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3154.0000000000014
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4111.2999999999965
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 9771.800000000021
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 3447.3000000000006
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 1182.6000000000001
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1545.6999999999994
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 11592.700000000028
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 4990.199999999999
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 3138.099999999999
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 19896.399999999983
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 4856.299999999999
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 712.7999999999998
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 9888.699999999993
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3042.100000000002
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 6169.499999999997
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 29819.29999999992
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4279.499999999999
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 9083.199999999986
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 6369.400000000004
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 580.4
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 16214.099999999997
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 2395.8999999999987
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 7274.6
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 8848.2
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6728.299999999994
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 7039.400000000003
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1644.700000000001
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 3823.0000000000023
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 9471.999999999998
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 30053.59999999993
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 24255.899999999958
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2813.1
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 846.0000000000003
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 7392.300000000006
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 15789.09999999999
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 29861.699999999946
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 2464.2000000000016
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 7579.199999999998
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 5348.800000000001
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1071.8999999999992
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1519.200000000001
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 1901.8999999999999
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 21157.89999999997
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 9633.199999999992
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 3618.8999999999996
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2228.6000000000004
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 9711.599999999991
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 10165.799999999994
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 5365.800000000004
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2216.000000000003
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3946.3999999999987
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6853.5999999999985
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6787.900000000001
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 6415.099999999996
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 1751.5000000000005
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 5789.9000000000015
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3195.800000000002
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 369.9
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 7344.899999999988
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 11844.599999999999
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 84.8
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 4160.800000000001
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 10661.200000000004
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6775.900000000007
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 4214.099999999997
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 2371.7000000000003
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 15071.099999999964
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 4927.000000000002
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 9597.90000000001
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2769.5000000000005
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 18546.999999999993
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 9299.099999999995
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1412.3000000000004
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2269.4000000000033
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1144.1
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3817.499999999996
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 4837.499999999999
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1394.3999999999999
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 5226.0999999999985
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 1429.0999999999997
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 8015.899999999997
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 3851.8999999999987
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 31479.599999999868
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 30090.699999999917
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 910.0999999999999
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2734.6000000000063
+        },
+        {
+          "day": 3,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 1250.8
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 10591.399999999976
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 9163.599999999999
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 4986.6999999999925
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 7426.700000000002
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2788.500000000001
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 5338.1
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2184.6
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 8645.89999999999
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 962.5000000000009
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2541.499999999999
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 7808.399999999996
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1770.8000000000015
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2093.000000000001
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6793.9
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 33366.799999999865
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 6248.699999999995
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 7343.500000000004
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 3464.7000000000025
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 5105.299999999998
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 5408.9000000000015
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 4211.799999999999
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 5757.899999999992
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3110.7999999999993
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3253.2999999999997
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 8012.699999999994
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6607.000000000011
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4429.699999999996
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 5909.599999999998
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 4522
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 11599.699999999986
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4840.000000000002
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 24860.09999999994
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 19296.199999999975
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1364.3999999999994
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 9326.800000000008
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 11079.099999999988
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 8046.400000000002
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2858.300000000001
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 30097.499999999953
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 13617.599999999997
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 7036.900000000001
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 5918.699999999996
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 8796.200000000006
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 5309.199999999997
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3564.7000000000016
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2677.5000000000005
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 20331.50000000002
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 5593.600000000002
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 10747.499999999998
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 6064.999999999989
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 2132.8999999999996
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 2273.2000000000016
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1460.300000000002
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 969.8000000000001
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 27399.399999999965
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2251.8000000000025
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 8484.199999999975
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2006.099999999999
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3828.9000000000005
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 5636
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 11871.90000000001
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 12276.199999999984
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 4266.400000000004
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 2097.9000000000015
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3211.0000000000023
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3196.8000000000015
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 1239.1999999999998
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 9288.600000000004
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 1780.3999999999994
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 7632.399999999997
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4801.100000000001
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1055.2999999999993
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 9420.899999999996
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 2678.300000000001
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4120.6
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3085.6000000000017
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 475.5
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 7547.199999999977
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 2794.4000000000015
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 19530.000000000015
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 13502.599999999984
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 10733.200000000006
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 1450.0000000000005
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 6903.3
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 5912.699999999996
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3213.1000000000004
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 3823.4999999999973
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 2979.7999999999993
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 10842.9
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 7810.399999999997
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 24415.099999999977
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4506.799999999999
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2020.9000000000024
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3781.6000000000013
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 12366.6
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 7593.799999999993
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 5186.9999999999945
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3161.7000000000007
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 10483.799999999977
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2863.7999999999993
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 7924.4999999999945
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 1174.9
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 6573.600000000002
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 357.40000000000003
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3086.6000000000004
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 24458.19999999998
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1339.3999999999994
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 1652.8000000000006
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 6995.999999999997
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 6244.100000000002
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4437.700000000002
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 8125.599999999997
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 5793.5999999999985
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 1249.7000000000003
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3233.1
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6367.800000000007
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 1313.2999999999997
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 12048.99999999998
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 7188.499999999999
+        },
+        {
+          "day": 3,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 4263.5
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 2856.8000000000015
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4454.900000000003
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 10632.100000000019
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4432.300000000002
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 3404.699999999996
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6106.799999999993
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 3972.6000000000004
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 10217.799999999972
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2328.400000000001
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3622.599999999997
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 8327.499999999987
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3462.200000000003
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 3189.600000000001
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 5798.899999999996
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 7382.500000000001
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 4490.5
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 7516.300000000003
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 2687.5999999999976
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 5309.300000000005
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 5127.200000000001
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 12590.300000000014
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 9250.300000000008
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 6089.699999999997
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 4063.500000000002
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1174.5
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6954.200000000001
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4526
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 6858.299999999997
+        },
+        {
+          "day": 3,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3085.9
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1393.6999999999998
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4979.900000000003
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3630.5000000000005
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3300.1000000000013
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 14214.300000000003
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 3360.499999999998
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4460.800000000001
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 7116.599999999984
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 2980.1999999999985
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1984.9000000000024
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 2196.300000000001
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 899.8999999999999
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1390.9999999999993
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 11121.899999999985
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 4777.599999999998
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1715.700000000001
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 250.2
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 3452.4999999999955
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 5190.899999999998
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 6886.599999999999
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 2922.7000000000003
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 7661.700000000005
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 4348.600000000001
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 3363.8000000000006
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 8823.000000000005
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 7952.999999999998
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 2438.3000000000015
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 20962.09999999999
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6743.100000000006
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 8739.099999999988
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1590.600000000001
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 7817.300000000001
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3429.5000000000023
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 7404.400000000007
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1084.6999999999994
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 15854.100000000002
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3553.500000000001
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1286.0999999999997
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 4036.600000000001
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 8631.799999999981
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 6211.799999999995
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 8971.100000000006
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 7737.999999999995
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2179.500000000002
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 2036.7000000000007
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 2747.1999999999994
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 6273.599999999996
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4075.400000000005
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 10632.099999999993
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 13754.500000000004
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 2849.5
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1901.9999999999998
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 6415.2
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 31700.799999999927
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 26654.299999999937
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4002.6000000000035
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 5098.300000000004
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3429.000000000004
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 9348.9
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4631.700000000005
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 285.3
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 32599.1999999999
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 4190.599999999997
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 4018.2999999999984
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 880.6999999999997
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4876.099999999999
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 2185.5
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 10241.799999999994
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 8788.400000000005
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3244.000000000002
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 1424.3
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3928.800000000001
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 4117.899999999999
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 4937.000000000001
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 4192.899999999999
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 3401.1000000000013
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 1969.899999999999
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 8956.600000000006
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 945.3
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 4566.499999999999
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 15142.499999999998
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 3542.5000000000045
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 3328.3000000000043
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 15608.999999999976
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 8785.499999999998
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 1572.7000000000007
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6792.200000000008
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 3706.6
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 1248.6
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 3077.800000000001
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 2426.1000000000004
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 1406.9
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 6248.799999999994
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "MACAN",
+          "meat": 1906.3000000000006
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "BUAYA",
+          "meat": 5254.699999999997
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 2404
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 0
+        },
+        {
+          "day": 3,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 0
+        },
+        {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 31,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 3,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 25,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 3,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 0
+        },
+        {
+          "day": 10,
+          "month": 3,
+          "year": 2019,
+          "animal": "SINGA",
+          "meat": 0
+        },
+        {
+          "day": 7,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 13,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 10,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 3,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 0
+        },
+        {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 10,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 0
+        },
+        {
+          "day": 9,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 0
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 10,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 0
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 0
+        },
+        {
+          "day": 12,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 0
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "SERIGALA",
+          "meat": 0
+        },
+        {
+          "day": 20,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 10,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 16,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 23,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 0
+        },
+        {
+          "day": 27,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 0
+        },
+        {
+          "day": 14,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 10,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 0
+        },
+        {
+          "day": 10,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 3,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 22,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "animal": "ULAR",
+          "meat": 0
+        },
+        {
+          "day": 11,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 26,
+          "month": 3,
+          "year": 2019,
+          "animal": "LAINNYA",
+          "meat": 0
+        },
+        {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        },
+        {
+          "day": 29,
+          "month": 3,
+          "year": 2019,
+          "animal": "BERUANG",
+          "meat": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "summary": {
+      "sickAnimals": [
+        {
+          "id": 1,
+          "name": "BUAYA",
+          "count": 2
+        },
+        {
+          "id": 2,
+          "name": "MACAN",
+          "count": 4
+        },
+        {
+          "id": 3,
+          "name": "SERIGALA",
+          "count": 3
+        }
+      ]
+    }
+  }
+}
