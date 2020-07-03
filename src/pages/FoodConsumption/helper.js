@@ -75,7 +75,7 @@ export const generateHighchartsData = (foodConsumptionData = {
             <br/>`,
             footerFormat: `
             <b>
-                Total: {point.y}
+                Total: {point.total}
             </b>`,
             shared: true,
             valueDecimals: 2
