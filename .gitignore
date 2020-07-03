@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# link
+/github_link.txt
+
 # production
 /build
 
