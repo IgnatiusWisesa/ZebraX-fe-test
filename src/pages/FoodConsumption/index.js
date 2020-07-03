@@ -27,8 +27,6 @@ const FoodConsumption = () => {
         // sort the res.data on ascending order by day
         let data = res.data.foodConsumption.daily.sort((a, b) => a.day - b.day)
 
-        console.log(data)
-
         // set arrays
         let newArrayDate = []
         let newArrayAnimal = []
@@ -64,7 +62,6 @@ const FoodConsumption = () => {
           })
         }
 
-        console.log(meatByAnimal)
         // push empty array to newMeatByAnimal
         let newMeatByAnimal = []
         for(i = 0; i< newArrayAnimal.length; i++){
@@ -77,7 +74,6 @@ const FoodConsumption = () => {
             if(meatByAnimal[i][j].day === 1){
               newMeatByAnimal[i].push(meatByAnimal[i][j])
             } else {
-              // console.log(meatByAnimal[i][j].day - meatByAnimal[i][j-1].day)
               if(meatByAnimal[i][j].day - meatByAnimal[i][j-1].day > 1){
                 newMeatByAnimal[i].push({
                     day: meatByAnimal[i][j].day - 1,
@@ -92,7 +88,6 @@ const FoodConsumption = () => {
           }
         }
 
-        // console.log(newMeatByAnimal)
         // meatByAnimal
         meatByAnimal = newMeatByAnimal
 
@@ -103,28 +98,17 @@ const FoodConsumption = () => {
 
         // push to newArrayMeat
         for(i = 0; i< meatByAnimal.length; i++){
-          // console.log(meatByAnimal[i])
           for(j = 0; j< meatByAnimal[i].length; j++){
             if(j === 0) {
               newArrayMeat[i].push(meatByAnimal[i][j].meat)
             } else if(meatByAnimal[i][j].day === meatByAnimal[i][j-1].day) {
               newArrayMeat[i][newArrayMeat[i].length-1] += meatByAnimal[i][j].meat
             } 
-            // else if(meatByAnimal[i][j].day === null || meatByAnimal[i][j].day === undefined) {
-            //   console.log(meatByAnimal[i][j])
-            //   // newArrayMeat[i].push(0)
-            // } 
             else {
               newArrayMeat[i].push(meatByAnimal[i][j].meat)
             }
           }
         }
-
-        console.log({
-          newArrayDate,
-          newArrayAnimal,
-          newArrayMeat
-        })
 
         // set new arrays to state
         setFoodConsumptionData({
